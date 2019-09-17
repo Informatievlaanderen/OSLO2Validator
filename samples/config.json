@@ -5,7 +5,7 @@
   },
   "Besluit": {
     "location": "https://data.vlaanderen.be/shacl/besluit-publicatie-SHACL.ttl",
-    "dependencies: ["https://data.vlaanderen.be/ns/besluit.ttl"]
+    "dependencies": ["https://data.vlaanderen.be/ns/besluit.ttl"]
   },
   "Dienstencataloog": {
     "location": "https://data.vlaanderen.be/shacl/Dienstencataloog-SHACL.ttl",
