@@ -3,6 +3,10 @@
     "location": "https://data.vlaanderen.be/shacl/Adresregister-SHACL.ttl",
     "dependencies": ["https://data.vlaanderen.be/ns/adres.ttl"]
   },
+  "Besluit": {
+    "location": "https://data.vlaanderen.be/shacl/besluit-publicatie-SHACL.ttl",
+    "dependencies: ["https://data.vlaanderen.be/ns/besluit.ttl"]
+  },
   "Dienstencataloog": {
     "location": "https://data.vlaanderen.be/shacl/Dienstencataloog-SHACL.ttl",
     "dependencies": ["https://data.vlaanderen.be/ns/dienst.ttl"]
