@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Configuration {
     //private String apConfig = "https://data.vlaanderen.be/src/shacl-validator-config.json";
-    private String apConfig = "https://github.com/Informatievlaanderen/Data.Vlaanderen.be/blob/production/config/shacl-validator-config.json";
+    private String apConfig = "https://raw.githubusercontent.com/Informatievlaanderen/Data.Vlaanderen.be/production/config/shacl-validator-config.json";
     private static final String AP_CONFIG = "AP_CONFIG";
     private final LoadingCache<String, Map<String, APModel>> cache;
 
