@@ -14,7 +14,7 @@
         </repository>
     </repositories>
     <properties>
-        <fasterxml.jackson.version>2.9.5</fasterxml.jackson.version>
+        <fasterxml.jackson.version>2.9.10.7</fasterxml.jackson.version>
     </properties>
 
     <dependencies>
